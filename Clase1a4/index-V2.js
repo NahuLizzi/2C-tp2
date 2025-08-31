@@ -34,4 +34,4 @@ const arrayDato = (array, tipo) => {
     return array.filter(n => n === tipo);
 }
 
-crearArray(datos, true);
+//crearArray(datos, true);
