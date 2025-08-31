@@ -1,0 +1,27 @@
+{
+  "name": "2c-tp2",
+  "version": "1.0.0",
+  "description": "practica tp2",
+  "main": "index-V2.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./Clase1a4/index-V2.js",
+    "dev": "node --watch ./Clase1a4/index-V2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NahuLizzi/2C-tp2.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Vue.js",
+    "Express.js"
+  ],
+  "author": "Nahuel Lizzi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NahuLizzi/2C-tp2/issues"
+  },
+  "homepage": "https://github.com/NahuLizzi/2C-tp2#readme"
+}
